@@ -1,1 +1,1 @@
-# Lap Time for RC Cars
+# Lap Timer for RC Cars
